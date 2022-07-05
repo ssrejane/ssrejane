@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align = "center">Hello🌎! Me chamo Rejane e estou embarcando nessa viagem que é a programação!</h1>
 
-<!--
-**ssrejane/ssrejane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nesse espaço, quero compartilhar meus projetos pessoais e colaborativos, e os projetos desenvolvidos no programa Start Full Stack - da Digital House em Parceria com a Porto.
 
-Here are some ideas to get you started:
+- 👩‍🎓 Sou Bacharel em Direito.
+- 💻 Estou aprendendo: HTML, CSS, JavaScript, React, Angular, Java, Spring boot e MySQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div>
+  <href="https://github.com/ssrejane">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ssrejane&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssrejane&layout=compact&langs_count=168&theme=radical"/>  
+</div>
