@@ -3,7 +3,7 @@
 Nesse espaço, quero compartilhar meus projetos pessoais e colaborativos, e os projetos desenvolvidos no programa Start Full Stack - da Digital House em Parceria com a Porto.
 
 - 👩‍🎓 Sou Bacharel em Direito.
-- 💻 Estou aprendendo: HTML, CSS, JavaScript, React, Angular, Java, Spring boot e MySQL.
+- 💻 Estou aprendendo: HTML, CSS, JavaScript, Angular, Java, Spring boot e MySQL.
 
 ##
 
